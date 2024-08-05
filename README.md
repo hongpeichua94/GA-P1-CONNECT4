@@ -28,7 +28,7 @@ The objective remains the same: be the first to form a line of four of your own 
 
 Keep your wits sharp and your moves swift to secure victory in this fast-paced game of skill and foresight.
 
-➡ [Click to Start Game](https://hongpeichua94.github.io/GA-SEI-PROJ/Connect4/)
+➡ [Click to Start Game](https://hongpeichua94.github.io/GA-P1-CONNECT4)
 
 # Next Steps / Future Enhancement
 
